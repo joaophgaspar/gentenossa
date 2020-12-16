@@ -1404,18 +1404,3 @@ h1+.line {
     margin-bottom: 2rem;
     display: none;
 }
-
-#logo_size {
-    max-width: 100%;
-}
-
-.social_mobile {
-    display: none;
-}
-
-#album_size {
-    max-width: 100%;
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
-}
