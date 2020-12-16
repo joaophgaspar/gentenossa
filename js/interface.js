@@ -1,5 +1,4 @@
-﻿(function($) {
-    'use strict';
+﻿$(document).ready(function() {
 
     /* Navbar scroll*/
     $('.navbar-nav ul li a').on('click', function() {
@@ -61,4 +60,4 @@
         fixedContentPos: false
     });
 
-})(jQuery);
+});
