@@ -1,6 +1,4 @@
-(function($) {
-    'use strict';
-
+$(document).ready(function() {
     $('.current_year').html(new Date().getFullYear())
 
     // mobile
@@ -13,5 +11,4 @@
         $("h1").css("font-size", "1.2rem");
         $(".social_mobile").show();
     }
-
-})(jQuery);
+});
