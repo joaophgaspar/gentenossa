@@ -148,7 +148,7 @@
 
     if (mobile) {
 
-        $("#album_size").css("width", "100%");
+        //$("#album_size").css("width", "100%");
         $("h1").css("font-size", "1.2rem");
         $(".social_mobile").show();
 

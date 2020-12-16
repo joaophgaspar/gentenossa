@@ -360,7 +360,6 @@ ion-icon {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    /* border: 1px solid #fff; */
     border-radius: 50%;
     transition: all 0.3s ease;
 }
@@ -1412,4 +1411,11 @@ h1+.line {
 
 .social_mobile {
     display: none;
+}
+
+#album_size {
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
 }
